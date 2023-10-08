@@ -1,8 +1,11 @@
 <h1 align="center">Hi👋, I'm Shakini Wijekoon</h1>
-<h3 align="center">Frontend Developer and UI/UX Designer</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Frontend+Developer;+UI/UX+Designer...;" alt="Typing SVG" /></a>
+</div> 
+<br>
 <div align="center"> <img src="**"> </div>
 <h4 align="center">My content centers on design and development. I relish exploring languages and frameworks, cherishing the creative web development journey. From wireframing to UI/UX, design's essence fuels my passion.</h4>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmishakini&label=Profile%20views&color=0e75b6&style=flat" alt="rashmishakini" /> </p>
 <h2 align="left">About me:</h2>
 
 - 🌱 I’m currently pursuing **a degree in Computer Science at NSBM Green University**
@@ -27,8 +30,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RashmiShakini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiShakini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmishakini" alt="rashmishakini" /></a> </p>
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiShakini&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmishakini&label=Profile%20views&color=0e75b6&style=flat" alt="rashmishakini" /> </p>
+
 
 
