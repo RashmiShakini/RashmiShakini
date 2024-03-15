@@ -10,11 +10,6 @@
 <img align="center" height="121" src="https://camo.githubusercontent.com/66c3fb2f101b107418cf09dbf7f8a1f76f4ed51bc1ac483a1a41aa3f8bdd6fdd/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3261343163303130393835303033372e356664636639616238323734362e676966"  />
 </div>
 
-<h5 align="center">
-	<a href="https://github.com/RashmiShakini"><img src="https://img.shields.io/github/followers/RashmiShakini?color=green&logo=github&style=flat-flat" alt="GitHub"/></a>
-	<a><img src="https://komarev.com/ghpvc/?username=RashmiShakini&style=flat-flat&color=brightgreen"/></a>
-</h5>
-
 <br>
 
 <div align="center">
@@ -84,6 +79,9 @@
   </a>
   <a href="https://www.instagram.com/_.shkiniii____/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.instagram.com/Rashmi Shakini" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4F84CF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
 
