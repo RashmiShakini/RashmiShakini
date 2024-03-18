@@ -7,6 +7,7 @@
 <br>
 
 <div align="center">
+	<h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
@@ -54,6 +55,7 @@
 <br>
 
 <div align="center">
+	<h3>GitHub Status</h3>
   <img src="https://streak-stats.demolab.com?user=RashmiShakini&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=16" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RashmiShakini&locale=en&hide_title=false&layout=compact&border_radius=16&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -61,6 +63,7 @@
 <br>
 
 <div align="center">
+	<h3>Speack To</h3>
   <a href="rashmisakhini@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
