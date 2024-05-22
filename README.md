@@ -4,6 +4,8 @@
 <img align="center" height="121" src="https://camo.githubusercontent.com/66c3fb2f101b107418cf09dbf7f8a1f76f4ed51bc1ac483a1a41aa3f8bdd6fdd/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3261343163303130393835303033372e356664636639616238323734362e676966"  />
 </div>
 
+<h4 align="center"> I focus on design and development, exploring languages and frameworks. I love the creative journey from wireframing to perfecting UI/UX, with design's essence fueling my passion.</h4>
+
 <br>
 
 <div align="center">
